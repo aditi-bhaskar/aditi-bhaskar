@@ -5,7 +5,7 @@
  - ⚡ Fun fact! I'm the 📄sole holder of US Non-Provisional Patent #17|963,832 on nutrient detection methods and device and 📚 author of a 5-book Childrens' Detective Fiction series 
  - 🎹 I also know how to play a few tunes
  - 🔭 I’m currently working on something (but the something changes every day!)
- - 🔗 Connect with me at aditi▪️bhaskar▪️pdx @ gmail▪️com or on linkedin https://www.linkedin.com/in/aditi-bhaskar-pdx/
+ - 🔗 Connect with me at aditi▪️bhaskar▪️pdx @ gmail▪️com or https://www.linkedin.com/in/aditi-bhaskar-pdx/
 
 
 <!--
