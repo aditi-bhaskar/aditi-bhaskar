@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello world 👋
+
+ - I am a 🌲 and I live on a 🚜 little farm called Stanford 🐦
+ - 💬 Ask me about 🧪 my research on the detection and measurement of nitrate, ammonium, phosphate, and sulfate in aqueous samples or 🤖 FRC Team 1425
+ - ⚡ Fun fact! I'm the 📄sole holder of US Non-Provisional Patent #17|963,832 on nutrient detection methods and device and 📚 author of a 5-book Childrens' Detective Fiction series 
+ - 🎹 I also know how to play a few tunes
+ - 🔭 I’m currently working on something (but the something changes every day!)
+ - 🔗 Connect with me at aditi▪️bhaskar▪️pdx @ gmail▪️com
+
 
 <!--
 **aditi-bhaskar/aditi-bhaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
