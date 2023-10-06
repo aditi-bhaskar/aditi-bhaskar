@@ -9,7 +9,7 @@
  - Remember 🇼🇴🇷🇩🇱🇪? Try this one ~ https://bittlesuite.github.io/
 
  - 🔭 I’m currently working on something (but the something changes every day!)
- - 🔗 Connect with me at aditi▪️bhaskar▪️pdx📧gmail▪️com or https://www.linkedin.com/in/aditi-bhaskar-pdx/
+ - 🔗 Connect with me at aditijb📧stanford.edu or https://www.linkedin.com/in/aditi-bhaskar-pdx/
 
 <!--
 **aditi-bhaskar/aditi-bhaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
