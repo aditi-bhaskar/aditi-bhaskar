@@ -1,13 +1,10 @@
 ### Hello world!! 👋
 
  - I am a 🌲 tree and I live on a 🚜 little farm called Stanford 🐦
-
  - 💬 Ask me about 🧪 my research on the detection and measurement of nitrate, ammonium, phosphate, and sulfate in aqueous samples or 🤖 FRC Team 1425 (@errorcodexero on github)
-  
- - ⚡ Fun fact! I'm the 📄sole holder on US Non-Provisional Patent #17|963,832 on nutrient detection methods and device and 📚 author of a 5-book Childrens' Detective Fiction series 
+ - ⚡ Fun facts! I'm the 📄sole holder on US Non-Provisional Patent #17|963,832 on nutrient detection methods and device and 📚 author of a 5-book Childrens' Detective Fiction series 
  - 🎹 I also know how to play a few tunes and 💥 if you like Comic Sans we can be friends!
  - Remember 🇼🇴🇷🇩🇱🇪? Try this one ~ https://bittlesuite.github.io/
-
  - 🔭 I’m currently working on something (but the something changes every day!)
  - 🔗 Connect with me at aditijb📧stanford.edu or https://www.linkedin.com/in/aditi-bhaskar-pdx/
  - Here is my website ✨ https://aditi-bhaskar.github.io/ ✨
