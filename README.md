@@ -4,7 +4,7 @@
 
  - 💬 Ask me about 🧪 my research on the detection and measurement of nitrate, ammonium, phosphate, and sulfate in aqueous samples or 🤖 FRC Team 1425 (@errorcodexero on github)
   
- - ⚡ Fun fact! I'm the 📄sole holder of US Non-Provisional Patent #17|963,832 on nutrient detection methods and device and 📚 author of a 5-book Childrens' Detective Fiction series 
+ - ⚡ Fun fact! I'm the 📄sole holder on US Non-Provisional Patent #17|963,832 on nutrient detection methods and device and 📚 author of a 5-book Childrens' Detective Fiction series 
  - 🎹 I also know how to play a few tunes and 💥 if you like Comic Sans we can be friends!
  - Remember 🇼🇴🇷🇩🇱🇪? Try this one ~ https://bittlesuite.github.io/
 
