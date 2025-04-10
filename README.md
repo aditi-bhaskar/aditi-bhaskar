@@ -9,3 +9,5 @@ Some of my projects (newest first)
  * 0️⃣ Web game 0️⃣ Bittle: guess the bit ([here](https://github.com/bittlesuite/bittlesuite.github.io))
    
 For more on these projects (and environmental research devices, drones, a medical device, and board games!) see [my website](https://aditi-bhaskar.github.io/projects)
+
+What's my pfp? I built a little antenna one day, on a whim, at Stanford's EE makerspace :) I had just tuned it with a fancy tool. 
