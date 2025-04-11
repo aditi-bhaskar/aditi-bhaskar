@@ -10,4 +10,4 @@ Some of my projects (newest first)
    
 For more on these projects (and environmental research devices, drones, a medical device, and board games!) see [my website](https://aditi-bhaskar.github.io/projects)
 
-What's my pfp? Flowers from Stanford's Lake Lagunita. In my free time I like exploring nature's beauty and designing & 3d printing shelves (to hold the trinkets I 3d print).
+What's my pfp? Wildflowers from Stanford's Lake Lagunita. In my free time I like exploring nature's beauty and designing & 3d printing shelves (to hold the trinkets I 3d print).
