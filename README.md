@@ -4,7 +4,7 @@ email me at aditijb [at] cs.stanford.edu
 
 Some of my coding projects (newest first)
  * ✨ LM/interpretability ✨ Understanding & locating 'current' time in language models ([repo](https://github.com/Suzehva/time-in-language-models))
- * ⌚ Zephyr RTOS ⌚ ([repo](https://github.com/zephyrproject-rtos/zephyr), [contribution badge](https://www.credly.com/users/aditi-bhaskar/badges))
+ * ⌚ Zephyr RTOS ⌚ ([repo](https://github.com/zephyrproject-rtos/zephyr), [Linux Foundation badge](https://www.credly.com/users/aditi-bhaskar/badges))
  * 💻 OS/file system 💻 Mini FAT32 laptop with txt/pbm/dir traversals/creations/edits ([repo](https://github.com/aditi-bhaskar/suziti-filesystem))
  * 🟨 Systems 🟨 Tiltris: tetris with a tiltable remote ([repo](https://github.com/aditi-bhaskar/tiltris))
  * 0️⃣ Web game 0️⃣ Bittle: guess the bit ([repo](https://github.com/bittlesuite/bittlesuite.github.io))
