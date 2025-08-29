@@ -2,7 +2,7 @@
 
 email me at aditijb [at] cs.stanford.edu
 
-Some of my coding projects (newest first)
+Some of my coding projects + work (newest first)
  * ✨ LM/interpretability ✨ Understanding & locating 'current' time in language models ([repo](https://github.com/Suzehva/time-in-language-models))
  * ⌚ Zephyr RTOS ⌚ ([repo](https://github.com/zephyrproject-rtos/zephyr), [Linux Foundation badge](https://www.credly.com/users/aditi-bhaskar/badges))
  * 💻 OS/file system 💻 Mini FAT32 laptop with txt/pbm/dir traversals/creations/edits ([repo](https://github.com/aditi-bhaskar/suziti-filesystem))
