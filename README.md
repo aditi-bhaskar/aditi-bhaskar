@@ -9,6 +9,6 @@ Here are some of my coding projects + work (newest first)
  * 🟨 Systems 🟨 Tiltris: tetris with a tiltable remote ([repo](https://github.com/aditi-bhaskar/tiltris))
  * 0️⃣ Web game 0️⃣ Bittle: guess the bit ([repo](https://github.com/bittlesuite/bittlesuite.github.io))
    
-For more on these projects (and environmental research devices, drones, a medical device, board games, and a compsci memes page!) see [my website](https://aditi-bhaskar.github.io/projects)
+For more on these projects (and environmental research devices, some chemistry, drones, a medical device, board games, and a compsci memes page!) see [my website](https://aditi-bhaskar.github.io/projects)
 
 What's my pfp? Wildflowers from Stanford's Lake Lagunita. In my free time I like exploring nature's beauty. Tangentially, I like designing & 3d printing shelves (which, logically, hold wildflowers).
