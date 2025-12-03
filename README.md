@@ -2,7 +2,7 @@
 
 email me at aditijb [at] cs.stanford.edu
 
-Here are some of my coding projects + work (newest first)
+Here are some of my coding projects (newest first)
  * ⌚ RTOS ⌚ Contributed to Explorer (Edge 84) chip's Zephyr support ([repo](https://github.com/zephyrproject-rtos/zephyr), [Linux Foundation badge](https://www.credly.com/users/aditi-bhaskar/badges))
  * ✨ LM/interpretability ✨ Understanding & locating 'current' time in language models' architecture ([repo](https://github.com/Suzehva/time-in-language-models))
  * 💻 OS/file system 💻 Mini FAT32 laptop with txt/pbm/dir traversals/creations/edits ([repo](https://github.com/aditi-bhaskar/suziti-filesystem))
