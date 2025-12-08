@@ -11,4 +11,4 @@ Here are some of my coding projects (newest first)
    
 For more on these projects (and environmental research devices, some chemistry, drones, a medical device, board games, and a compsci memes page!) see [my website](https://aditi-bhaskar.github.io/projects)
 
-What's my pfp? Wildflowers from Stanford's Lake Lagunita. In my free time I like exploring nature's beauty. Tangentially, I like designing & 3d printing shelves (which, logically, hold wildflowers).
+What's my pfp? Wildflowers from Stanford's Lake Lagunita. In my free time I like taking walks in nature. Tangentially, I like designing & 3d printing shelves (which, logically, hold wildflowers).
