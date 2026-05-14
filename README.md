@@ -3,6 +3,7 @@
 email me at aditijb [at] cs.stanford.edu
 
 Recent technical works (newest first)
+ * 🎵 Digital systems 🎵 Wrote an FPGA-based polyphonic music synthesizer with real-time VGA display
  * ⌚ RTOS ⌚ Contributed to Explorer (Edge 84) chip's Zephyr support ([repo](https://github.com/zephyrproject-rtos/zephyr), [Linux Foundation badge](https://www.credly.com/users/aditi-bhaskar/badges))
  * ✨ LM/interpretability ✨ Understanding & locating 'current' time in language models ([repo](https://github.com/Suzehva/time-in-language-models))
  * 💻 OS/file system 💻 Mini FAT32 laptop with txt/pbm/dir traversals/creations/edits ([repo](https://github.com/aditi-bhaskar/suziti-filesystem))
