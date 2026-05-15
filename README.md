@@ -10,6 +10,6 @@ Recent technical works (newest first)
  * 🟨 Systems 🟨 Tiltris: tetris with a tiltable remote ([repo](https://github.com/aditi-bhaskar/tiltris))
  * 0️⃣ Web game 0️⃣ Bittle: guess the bit ([repo](https://github.com/bittlesuite/bittlesuite.github.io))
    
-For more on these projects (and environmental sensors, some chemistry, drones, a medical device, board games, and a compsci memes page!), email me :)
+For more on these projects (and environmental sensors, some chemistry, drones, a medical device, board games, and a [memes](https://instagram.com/stanford.cs.memes) page!), email me :)
 
 What's my pfp? Wildflowers from Stanford's Lake Lagunita. In my free time I like taking walks in nature. Tangentially, I like designing & 3d printing shelves (which, logically, hold wildflowers).
